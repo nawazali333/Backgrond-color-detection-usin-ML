@@ -1,4 +1,4 @@
-# Backgrond-color-detection-usin-ML
+# Backgrond-color-detection-using-ML
 
 In this project our aim is to detect the background color of the noisy image ,which it may contain the multiple colors in the the given image
 
